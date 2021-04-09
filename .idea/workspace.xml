@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a70aadc-9f76-4410-880d-863c6aaa6e3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/stocks-backend/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stocks-backend/src/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks-backend/src/stocks/api/dtos/stock.dto.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stocks-backend/src/stocks/api/dtos/update-price.dto.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks-backend/src/stocks/api/gateaways/stock.gateway.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stocks-backend/src/stocks/api/gateaways/stock.gateway.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks-backend/src/stocks/core/models/stock.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stocks-backend/src/stocks/core/models/stock.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks-backend/src/stocks/core/primary-ports/stock.service.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stocks-backend/src/stocks/core/primary-ports/stock.service.interface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stocks-backend/src/stocks/core/services/stock.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stocks-backend/src/stocks/core/services/stock.service.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/stocks-backend" />
+  </component>
+  <component name="ProjectId" id="1pw3gupgcrXnobQcVwBFwOfPwK5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\dpank\Documents\GitHub\stocks-backend\stocks-backend\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dpank\Documents\GitHub\stocks-backend\stocks-backend\src\stocks\api" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a70aadc-9f76-4410-880d-863c6aaa6e3e" name="Default Changelist" comment="" />
+      <created>1616080439545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616080439545</updated>
+      <workItem from="1616080440622" duration="3366000" />
+      <workItem from="1616339280715" duration="1557000" />
+      <workItem from="1616841355148" duration="1467000" />
+      <workItem from="1616941148088" duration="1025000" />
+      <workItem from="1617010994087" duration="5139000" />
+      <workItem from="1617017636063" duration="5820000" />
+      <workItem from="1617028171178" duration="4445000" />
+      <workItem from="1617091998543" duration="2640000" />
+      <workItem from="1617199314937" duration="4697000" />
+      <workItem from="1617711203410" duration="3751000" />
+      <workItem from="1617781411671" duration="3006000" />
+      <workItem from="1617819486665" duration="13000" />
+      <workItem from="1617873135062" duration="9225000" />
+      <workItem from="1617953787234" duration="3511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1617017825518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1617017825518" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617956661655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1617956661655" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1617895149740">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1617895149740" />
+  </component>
+</project>

@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a70aadc-9f76-4410-880d-863c6aaa6e3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/stocks-backend" beforeDir="false" afterPath="$PROJECT_DIR$/stocks-backend" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stocks-backend/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stocks-backend/src/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stocks-backend/src/stocks/api/dtos/stock.dto.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stocks-backend/src/stocks/api/dtos/update-price.dto.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stocks-backend/src/stocks/api/gateaways/stock.gateway.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stocks-backend/src/stocks/api/gateaways/stock.gateway.ts" afterDir="false" />
@@ -83,7 +84,7 @@
       <workItem from="1617781411671" duration="3006000" />
       <workItem from="1617819486665" duration="13000" />
       <workItem from="1617873135062" duration="9225000" />
-      <workItem from="1617953787234" duration="3511000" />
+      <workItem from="1617953787234" duration="3846000" />
     </task>
     <servers />
   </component>
